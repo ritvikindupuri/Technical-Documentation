@@ -1,2 +1,3 @@
-# Technical-Documentation
-Upload Technical Documentation for some of my notable projects
+# Project Technical-Documentation
+by: Ritvik Indupuri
+Uploaded Technical Documentation for some of my notable projects
