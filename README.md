@@ -21,16 +21,17 @@ These are the documents linked from [ritvik-portfolio.pages.dev](https://ritvik-
 | [KARMA_Technical_Documentation.pdf](KARMA_Technical_Documentation.pdf) | Kubernetes attack and remediation lab |
 | [CloudPilot_AI_Technical_Documentation.pdf](CloudPilot_AI_Technical_Documentation.pdf) | AWS security and operations assistant |
 | [Cirrus_Technical_Documentation.pdf](Cirrus_Technical_Documentation.pdf) | Read-only AWS security auditor |
-| [OriginTrace_Technical_Documentation.pdf](OriginTrace_Technical_Documentation.pdf) | Runtime-to-source DevSecOps engine |
+| [Blastline_AI_Technical_Documentation.pdf](Blastline_AI_Technical_Documentation.pdf) | AWS posture, attack paths, and allowlisted remediation |
+| [AWS_Cloud_DFIR_Technical_Documentation.pdf](AWS_Cloud_DFIR_Technical_Documentation.pdf) | GuardDuty-triggered EC2 containment and evidence capture |
 
 ## Other documents in this repository
 
 These remain available here even if they are not featured on the portfolio documentation list:
 
+- [OriginTrace_Technical_Documentation.pdf](OriginTrace_Technical_Documentation.pdf)
 - [Spectra_AI_Technical_Documentation.pdf](Spectra_AI_Technical_Documentation.pdf)
 - [AEGIS_AI_Technical_Documentation.pdf](AEGIS_AI_Technical_Documentation.pdf)
 - [GlyphBreaker_Technical_Documentation.pdf](GlyphBreaker_Technical_Documentation.pdf)
-- [Blastline_AI_Technical_Documentation.pdf](Blastline_AI_Technical_Documentation.pdf)
 - [FathomK8_Technical_Documentation.pdf](FathomK8_Technical_Documentation.pdf)
 - [AgentCore_Privilege_Escalation_Technical_Documentation.pdf](AgentCore_Privilege_Escalation_Technical_Documentation.pdf)
 - [k8s-cluster-admin-escalation-mapper_Technical_Documentation.pdf](k8s-cluster-admin-escalation-mapper_Technical_Documentation.pdf)
