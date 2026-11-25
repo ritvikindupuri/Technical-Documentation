@@ -19,6 +19,7 @@ These are the documents linked from [ritvik-portfolio.pages.dev](https://ritvik-
 | [K8Admission_Technical_Documentation.pdf](K8Admission_Technical_Documentation.pdf) | Kubernetes admission attack lab |
 | [BuildBreaker_Technical_Documentation.pdf](BuildBreaker_Technical_Documentation.pdf) | Container build security toolkit |
 | [KARMA_Technical_Documentation.pdf](KARMA_Technical_Documentation.pdf) | Kubernetes attack and remediation lab |
+| [CloudPilot_AI_Technical_Documentation.pdf](CloudPilot_AI_Technical_Documentation.pdf) | AWS security and operations assistant |
 | [Cirrus_Technical_Documentation.pdf](Cirrus_Technical_Documentation.pdf) | Read-only AWS security auditor |
 | [OriginTrace_Technical_Documentation.pdf](OriginTrace_Technical_Documentation.pdf) | Runtime-to-source DevSecOps engine |
 
@@ -26,7 +27,6 @@ These are the documents linked from [ritvik-portfolio.pages.dev](https://ritvik-
 
 These remain available here even if they are not featured on the portfolio documentation list:
 
-- [CloudPilot_AI_Technical_Documentation.pdf](CloudPilot_AI_Technical_Documentation.pdf)
 - [Spectra_AI_Technical_Documentation.pdf](Spectra_AI_Technical_Documentation.pdf)
 - [AEGIS_AI_Technical_Documentation.pdf](AEGIS_AI_Technical_Documentation.pdf)
 - [GlyphBreaker_Technical_Documentation.pdf](GlyphBreaker_Technical_Documentation.pdf)
