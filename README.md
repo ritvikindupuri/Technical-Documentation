@@ -14,6 +14,7 @@ These are the documents linked from [ritvik-portfolio.pages.dev](https://ritvik-
 | [AgentPot_Technical_Documentation.pdf](AgentPot_Technical_Documentation.pdf) | Agentic honeypot for AI-agent security |
 | [Containment_Technical_Documentation.pdf](Containment_Technical_Documentation.pdf) | Action-level guardrail for AI agents |
 | [Lume_Technical_Documentation.pdf](Lume_Technical_Documentation.pdf) | Claude skill security scanner |
+| [Chaff_Technical_Documentation.pdf](Chaff_Technical_Documentation.pdf) | Autonomous bot-traffic analyst |
 | [Container_Hardening_Team_Technical_Documentation.pdf](Container_Hardening_Team_Technical_Documentation.pdf) | Multi-agent container and Kubernetes review |
 | [EscapeArmed_Technical_Documentation.pdf](EscapeArmed_Technical_Documentation.pdf) | Container escape readiness scanner |
 | [K8Admission_Technical_Documentation.pdf](K8Admission_Technical_Documentation.pdf) | Kubernetes admission attack lab |
